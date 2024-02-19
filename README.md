@@ -1,1 +1,1 @@
-# Fix-my-code-0
+This was a series of projects provided by ALX School in which I was posed with challenging debugging programs. The challenges spanned a variety of programming languages from C to Python to Javascript and more. The specific list of projects 
